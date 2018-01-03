@@ -1,0 +1,13 @@
+{
+  "id": "fabric",
+  "name": "Fabric",
+  "version": "1.0.0",
+  "description": "Fabric.io",
+  "main": "index.js",
+  "author": "Leonardo Cavalcante <leonardo@kiddolabs.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://fabric.io/",
+    "hasNotificationSound": true
+  }
+}
